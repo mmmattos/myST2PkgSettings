@@ -1,6 +1,7 @@
 {
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -27,7 +28,6 @@
 		"Package Syncing",
 		"Placeholders",
 		"Search Stack Overflow",
-		"SublimeCodeIntel",
 		"SublimeEvernote",
 		"SublimeGoogle",
 		"SublimeLinter",
