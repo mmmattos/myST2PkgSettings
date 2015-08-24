@@ -1,0 +1,36 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ChangeQuotes",
+		"Clipboard History",
+		"DocBlockr",
+		"DoxyDoxygen",
+		"Entheogen Color Scheme",
+		"Example Overflow",
+		"FuzzyFileNav",
+		"Google Search",
+		"jQuery",
+		"JsFormat",
+		"JSLint",
+		"JsMinifier",
+		"LoremGibson",
+		"MacTerminal",
+		"Nettuts+ Fetch",
+		"Open Folder",
+		"Package Control",
+		"Package Syncing",
+		"Placeholders",
+		"Search Stack Overflow",
+		"SublimeCodeIntel",
+		"SublimeEvernote",
+		"SublimeGoogle",
+		"SublimeLinter",
+		"SublimeREPL"
+	]
+}
