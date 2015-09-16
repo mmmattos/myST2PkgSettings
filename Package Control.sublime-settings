@@ -1,7 +1,6 @@
 {
 	"in_process_packages":
 	[
-		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -16,6 +15,7 @@
 		"Example Overflow",
 		"FuzzyFileNav",
 		"Google Search",
+		"IceWorld Color Scheme",
 		"jQuery",
 		"JsFormat",
 		"JSLint",
@@ -24,6 +24,7 @@
 		"MacTerminal",
 		"Nettuts+ Fetch",
 		"Open Folder",
+		"Open URL",
 		"Package Control",
 		"Package Syncing",
 		"Placeholders",
